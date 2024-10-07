@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adeda132-1aab-4b32-b021-f95031403fd8" name="Changes" comment="" />
+    <list default="true" id="adeda132-1aab-4b32-b021-f95031403fd8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/himal/lab5colorchooser/ColorChooser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/himal/lab5colorchooser/ColorChooser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/himal/lab5colorchooser/ColorChooserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/himal/lab5colorchooser/ColorChooserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/himal/lab5colorchooser/ColorChooser.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/himal/lab5colorchooser/ColorChooser.fxml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +19,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "9bitbin"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/9bitbin/Lab5ColorChooser.git",
+    "accountId": "44a9443a-4363-4616-a2cc-b06af27976de"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -31,9 +49,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ColorChooser.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -54,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728273712950</updated>
-      <workItem from="1728273713958" duration="2000" />
+      <workItem from="1728273713958" duration="1228000" />
     </task>
     <servers />
   </component>
